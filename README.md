@@ -18,3 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrohitmishra&show_icons=true&locale=en" alt="mrohitmishra" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrohitmishra&" alt="mrohitmishra" /></p>
+<h3 align="center">Visitors Counts👀</h3>
+<a href="https://github.com/Bitrige/mrohitmishra/mrohitmishra"><img alt="Cute Count" 
+src="https://count.getloli.com/get/@mrohitmishra?theme=rule34" /></a>
