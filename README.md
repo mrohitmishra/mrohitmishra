@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrohitmishra&label=Profile%20views&color=0e75b6&style=flat" alt="mrohitmishra" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 ---
 
 ## 🚀 About Me
@@ -52,10 +50,10 @@
 
 #### **🛡️ Cybersecurity & Ethical Hacking:**
 <p align="left"> 
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="40" height="40"/> </a> 
-  <a href="https://owasp.org/www-project-top-ten/" target="_blank" rel="noreferrer"> <img src="https://owasp.org/www-static/assets/images/header-logo.svg" alt="owasp" width="40" height="40"/> </a> 
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/> </a> 
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="kali" width="40" height="40"/> </a> 
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/config/msf_logo.svg" alt="metasploit" width="40" height="40"/> </a> 
+  <a href="https://owasp.org/www-project-top-ten/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/OWASP/www-project-top-ten/master/assets/images/mapping_project.png" alt="owasp" width="40" height="40"/> </a> 
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.wireshark.org/download/misc/wireshark-icon.svg" alt="wireshark" width="40" height="40"/> </a> 
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/images/kali-tools-menu.png" alt="kali" width="40" height="40"/> </a> 
 </p>
 
 #### **🗄️ Databases & Version Control:**
