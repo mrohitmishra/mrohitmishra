@@ -31,6 +31,14 @@
   <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>
+#### **☁️ Cloud Platforms:**
+<p align="left"> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a> 
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> </a> 
+  <a href="https://www.linode.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9hV6n8T468rYAArruOzkJ92nABMB1Qhy-Mg&s" alt="linode" width="40" height="40"/> </a> 
+  <a href="https://www.vultr.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/306948/vultr.svg" alt="vultr" width="40" height="40"/> </a> 
+</p>
 
 #### **🌐 Backend & Frontend Development:**
 <p align="left"> 
@@ -50,16 +58,16 @@
 
 #### **🛡️ Cybersecurity & Ethical Hacking:**
 <p align="left"> 
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/config/msf_logo.svg" alt="metasploit" width="40" height="40"/> </a> 
-  <a href="https://owasp.org/www-project-top-ten/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/OWASP/www-project-top-ten/master/assets/images/mapping_project.png" alt="owasp" width="40" height="40"/> </a> 
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.wireshark.org/download/misc/wireshark-icon.svg" alt="wireshark" width="40" height="40"/> </a> 
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/images/kali-tools-menu.png" alt="kali" width="40" height="40"/> </a> 
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8zAh-cWxh8E4OU956qF0n5SSo5ONdl-0VKg&s" alt="metasploit" width="40" height="40"/> </a> 
+  <a href="https://owasp.org/www-project-top-ten/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/OWASP_ZAP_logo.svg" alt="owasp" width="40" height="40"/> </a> 
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://e1.pngegg.com/pngimages/342/752/png-clipart-macos-app-icons-wireshark-thumbnail.png" alt="wireshark" width="40" height="40"/> </a> 
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4g4vlSMB9Kf-j0cpf-25MuHuwlbA261mRag&s" alt="kali" width="40" height="40"/> </a> 
 </p>
 
 #### **🗄️ Databases & Version Control:**
 <p align="left"> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
 </p>
 
 ---
